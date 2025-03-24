@@ -19,7 +19,7 @@ library(ggforestplot)
 ```
 
 # Tutorial
-Examples from our Mexico City Prospective Study (MCPS) clonal haematopoiesis (CH) paper: https://wenweixiong.github.io/forest_plot_tutorial.html  
+Examples from our Mexico City Prospective Study (MCPS) clonal haematopoiesis (CH) paper: https://wenweixiong.github.io/ggforestplot.html  
 
 # Citation
 Please cite the orignal R package: https://github.com/NightingaleHealth/ggforestplot
